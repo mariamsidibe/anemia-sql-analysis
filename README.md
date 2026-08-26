@@ -16,7 +16,7 @@ SQL Server Management Studio (SSMS), T-SQL
 ## Key Findings 
 -	Female patients: 135, average age 61. Male patients: 165, average age 72. 
 ![Demographics by Sex](chart2_demographics.png)
--	Epoetin Alfa was the dominant anemia treatment (3,388 prescriptions) compared to oral iron (30 prescriptions), suggesting the majority of cases are renal-related rather than iron deficiency. 
+-	Epoetin Alfa was the dominant anemia treatment (3,388 prescriptions) compared to oral iron (30 prescriptions), suggesting the majority of cases are renal-related or chemotherapy support rather than iron deficiency. 
 ![Treatment Distribution](chart1_treatment.png)
 -	Patients with the highest encounter frequency (up to 2,006 encounters) were predominantly ambulatory (73%), a pattern consistent with recurring dialysis treatment - reinforcing the renal-anemia interpretation drawn from the medication data. 
 ![Encounter Types](chart3_encounters.png)
