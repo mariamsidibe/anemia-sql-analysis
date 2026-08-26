@@ -15,11 +15,11 @@ This project presents an end-to-end SQL analysis of a synthetic patient populati
 SQL Server Management Studio (SSMS), T-SQL 
 ## Key Findings 
 -	Female patients: 135, average age 61. Male patients: 165, average age 72. 
-![Demographics by Sex](images/chart2_demographics.png)
+![Demographics by Sex](chart2_demographics.png)
 -	Epoetin Alfa was the dominant anemia treatment (3,388 prescriptions) compared to oral iron (30 prescriptions), suggesting the majority of cases are renal-related rather than iron deficiency. 
-![Treatment Distribution](images/chart1_treatment.png)
+![Treatment Distribution](chart1_treatment.png)
 -	Patients with the highest encounter frequency (up to 2,006 encounters) were predominantly ambulatory (73%), a pattern consistent with recurring dialysis treatment - reinforcing the renal-anemia interpretation drawn from the medication data. 
-![Encounter Types](images/chart3_encounters.png)
+![Encounter Types](chart3_encounters.png)
 ## Skills Demonstrated 
 Clinical data cleaning, Exploratory Data Analysis (EDA), Common Table Expressions (CTEs), window functions (RANK() OVER), multi-table joins, clinical interpretation of data, healthcare data analytics using SQL.
 
