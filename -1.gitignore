@@ -1,0 +1,23 @@
+# SQL Server Management Studio
+*.suo
+*.user
+*.sln.docstates
+.vs/
+
+# Backup and temp files
+*.bak
+*.tmp
+*~
+*.log
+
+# Raw/large data files (do not commit source CSVs)
+*.csv
+*.zip
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment/credentials (just in case)
+*.env
+connectionstrings.txt
